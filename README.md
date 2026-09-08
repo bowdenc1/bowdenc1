@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bowden
 
-I’m a CS and Math student at the University of Michigan interested in software engineering and AI systems. I enjoy working on projects involving simulation, data analysis, and machine learning. 
+I’m a CS and Math student at the University of Michigan interested in software engineering and AI systems. I enjoy working on projects involving simulation, data analysis, and machine learning. Here are some projects that I've worked on in the past: 
 
 ### Synthetic Cursor Simulator
 I worked on a synthetic cursor simulator that models human cursor trajectories. I designed different braking terms for the cost function, updated the simulator code to have it run on specific tunnels, and created evaluation scripts to test various HCI movement models. 
@@ -11,6 +11,7 @@ My work also included updating the React & Vite data collection website; I added
 
 ### Multi-Agent LLM Transportation Simulation
 I created Python data-analysis tools to analyze a simulation where LLM agents choose departure times to go to work, forming traffic bottlenecks. My work analyzes how increased penalty weights (early/late/queue waiting) affect convergence toward an equilibrium. 
+
 **[Analysis repository →](https://github.com/bowdenc1/llm-transportation-analysis)**
 
 ### Turntable Paradox Project
