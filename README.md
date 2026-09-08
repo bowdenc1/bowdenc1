@@ -16,4 +16,5 @@ I created Python data-analysis tools to analyze a simulation where LLM agents ch
 
 ### Turntable Paradox Project
 A group project physics simulation involving rotational and translational dynamics, static and kinetic friction, and real-time scrolling graphs to visualize mechanics. 
+
 **[View the simulation →](https://www.glowscript.org/#/user/bchen50/folder/FinalProject/)**
