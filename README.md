@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Bowden
+## Hi, I'm Bowden
 
 I’m a CS and Math student at the University of Michigan interested in software engineering and AI systems. I enjoy working on projects involving simulation, data analysis, and machine learning. Here are some projects that I've worked on in the past: 
 
