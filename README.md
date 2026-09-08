@@ -1,6 +1,6 @@
 ## Hi, I'm Bowden
 
-I’m a CS and Math student at the University of Michigan interested in software engineering and AI systems. I enjoy working on projects involving simulation, data analysis, and machine learning. Here are some projects that I've worked on in the past: 
+I am a CS and Math student at the University of Michigan interested in software engineering and AI systems, and I enjoy working on projects involving simulation, data analysis, and machine learning. Here are some projects that I have worked on in the past: 
 
 ### Synthetic Cursor Simulator
 I worked on a synthetic cursor simulator that models human pointing and cursor movement. I designed different braking terms for the cost function, updated the simulator code to have it run on specific tunnels, and created evaluation scripts to test various HCI movement models. 
